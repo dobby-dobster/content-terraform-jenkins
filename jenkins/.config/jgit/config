@@ -1,0 +1,6 @@
+[filesystem "ip-10-0-1-10.ec2.internal|Oracle Corporation|1.8.0_265|/dev/nvme0n1p1"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 4008 microseconds
+[filesystem "Oracle Corporation|1.8.0_265|/dev/nvme0n1p1"]
+	timestampResolution = 2001 microseconds
+	minRacyThreshold = 6510 microseconds
